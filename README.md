@@ -19,30 +19,61 @@ Kill President
       
       
      Europe 45
-     The United Kingdom of Great Britain and Northern Ireland, France, 
+     
+      The United Kingdom of Great Britain and Northern Ireland, France, Netherlands，Ireland, Belgium, Luxembourg, Monaco, 
+      Denmark, Norway, Sweden, Finland, Iceland, 
+      Poland, Czech Republic, Slovakia, Austria, Hungary, Germany, Switzerland, Lichtenstein,
+      Estonia, Latvian, Lithuanian, Belarus, Russia, Ukraine, Moldova,
+      
+      Romania, Bulgaria, Serbia, Montenegro, northern Macedonia, Albania, Greece,
+      Slovenian, Croatian, Bosnian, Italy, Vatican, San Marino, Maltese, Spain, Portugal, Andorra, Cyprus,
      
      
      
      
      Africa 54
      
-     
-     
-     
+      Egypt, Libya, Tunisia, Algeria, Morocco
+      Ethiopia, Eritrea, Somalia, Djibouti, Kenya, Tanzania, Uganda, Rwanda, Burundi, Seychelles, Sultan and South Sultan,
+      Chad, Central Africa, Cameroon, Equatorial Guinea, Gabon, Congo Republic, Democratic Republic of Congo, Sao Tome and Principe,
+      
+      Mauritania, Senegal, Gambia, Mali, Burkinabe, Guinea, Guinea, Guinea, 
+      Cape Verde, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Benin, Niger, Nigeria,
+      
+      Zambia, Angola, Zimbabwe, Malawi, Mozambique, Botswana, Namibia, South Africa, 
+      Swaziland, Lesotho, Madagascar, Comoros, Mauritius
+      
+      
+      
+      
      North America 23
-     
-     
-     
+      
+      Canada, America,
+      Mexico, Guatemala, Belize, El Salvador, Honduras, Nicaragua, Costa Rica, Panama,
+      
+      Bahamas, Cuba, Jamaica, Haiti, Dominica, Antigua and Barbuda, Saint Kitts and Nevis, 
+      Dominica, Saint Lucia, Saint Vincent and the Grenadines, Grenada, Barbados, Trinidad and Tobago
+      
+      
+      
      
      South America 12
      
-     
-     
+      Colombia, Venezuela, Guyana, Suriname,
+      Ecuador, Peru, Bolivia,
+      Brazil,
+      Chile, Argentina, Uruguay, Paraguay,
+      
+      
+      
      
      Oceania 16
-
-
-
+      
+      Australia, New Zealand,
+      Nauru, Micronesia, Micronesia,
+      Papua New Guinea, Solomon Islands, Vanuatu, Fiji,
+      Tuvalu, Samoa, Tonga, Cook Islands, Niue,
+      
      Language
 
 
