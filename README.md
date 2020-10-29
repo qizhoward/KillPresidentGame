@@ -18,7 +18,7 @@ Kill President
       
       
       chinese, Монгол хэл, Korean, 대한민국, japanese,
-      zh_CN, , ,ko-KR, ja_JP,
+      zh_CN, , ,ko_KR, ja_JP,
       
       
       
