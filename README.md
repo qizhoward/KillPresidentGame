@@ -15,6 +15,8 @@ Kill President
       Afghanistan, Iraq, Iran, Syria, Jordan, Lebanon, Israel, Palestine, Saudi Arabia, 
       Bahrain, Qatar, Kuwait, The United Arab Emirates, Oman, Yemen, Georgia, Armenian, Azerbaijan, turkey,
       
+      
+      
       chinese, Монгол хэл, Korean, 대한민국, japanese,
       zh_CN, , ,ko-KR, ja_JP,
       
