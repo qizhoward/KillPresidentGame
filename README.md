@@ -3,17 +3,21 @@ Kill President
   
       Language
      
-     English EN-US
+     English EN-US 
      
      Asia 47
 
-      China, Mongolia, North Korea, The republic of korea,Japan, 
+      China, Mongolia, North Korea, The republic of korea, Japan, 
       The Philippines, Vietnam, Laos, Cambodia, Myanmar, Thailand, Malaysia, Brunei, Singapore, Indonesia, Timor-Leste,
       Nepal, Bhutan, The People's Republic of Bangladesh, India, Pakistan, Sri Lanka, Maldives,
       Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan,
       
       Afghanistan, Iraq, Iran, Syria, Jordan, Lebanon, Israel, Palestine, Saudi Arabia, 
       Bahrain, Qatar, Kuwait, The United Arab Emirates, Oman, Yemen, Georgia, Armenian, Azerbaijan, turkey,
+      
+      chinese, Монгол хэл, Korean, 대한민국, japanese,
+      zh_CN, , ,ko-KR, ja_JP,
+      
       
       
       
