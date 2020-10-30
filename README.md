@@ -18,7 +18,10 @@ Kill President
       
       
       chinese, Монгол хэл, Korean, 대한민국, japanese,
+      
       zh_CN, , ,ko_KR, ja_JP,
+      EN-US, , , , , , , , EN-US ZH_CN, , ,
+      nepali, Dzongkha, EN-US, EN-US, EN-US , , ,
       
       
       
