@@ -22,7 +22,8 @@ Kill President
       zh_CN, , ,ko_KR, ja_JP,
       EN-US, , , , , , , , EN-US ZH_CN, , ,
       nepali, Dzongkha, EN-US, EN-US, EN-US , , ,
-      
+      RU-RU, RU-RU, RU-RU, , RU-RU, 
+      , , , , , , , , , , , , , , , , , , , 
       
       
       
@@ -36,6 +37,9 @@ Kill President
       
       Romania, Bulgaria, Serbia, Montenegro, northern Macedonia, Albania, Greece,
       Slovenian, Croatian, Bosnian, Italy, Vatican, San Marino, Maltese, Spain, Portugal, Andorra, Cyprus,
+     
+      EN-US,fr-FR
+     
      
      
      
